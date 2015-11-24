@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2015-11-22 00:00:00Z - 2015-11-22 23:59:59Z
-          #   COUNT              4
-          #   LIST CREATED ON    2015-11-23 00:30:23Z
+          #   PERIOD             2015-11-23 00:00:00Z - 2015-11-23 23:59:59Z
+          #   COUNT              1
+          #   LIST CREATED ON    2015-11-24 00:30:15Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,7 +22,4 @@
 
 
 
-42777a66e2ae71db746ecfb05226aacbedfa8df37fb6b78af6ce06b9cf1c63a5ada110ba61d30690a3117256c591953620e41d43c31689a79be109a32c0ef849 396bd0e0ebb5b2201e084a53279a7748976ccf29f0c655fc7b689f767e235cb8a69d3b63ecef2e6010a5a4dcc548afb9dfcf932f67a51c716732e3adabcc4363
-8cbea21ab7c8a65b1eee37da5daa74e319169825485150ce485b3c7f2f9e1e018d58cc7f98ef01353b999d89a39c186bf18e875daf47126ad8b961aec395a446 6aaa89eee8f20c086e341e90dbb605f78f25c88b55a3a65ddacd68e1f8f67b2471fec68ab1d5d85d3c5ff667e37374c3c0a1894dad0f7869f98ed664cc71d476
-0fe115183935d384015c35d3070b3d3991d112372fa5f2f5527c2dd7b5289d4db555e7907d069268ebd77886c7b0442f153550a9aa8e7c4c83d7d5147e1537dd a11f0cb39b993617880c8e1a0e6974009c17cdfc057abcac441612594ebef5d90af96942142e55ff8f031476d52d2a9736dde817211cbb65dd716aa74cbd3452
-1f9db77ae9d92ab72701f2fedc6e97836ebce82c0bcbfe2baa87ad24201a7bb8e64714ddbcca5dfcdb769d13deebb471f3a62e4a32f2acbfe745e92495e8096d f71a38c7a64d807990f4cbf332760b53e102eaf28e7a2fe6b3f5809aa75749b5b54db8871417696da7af9575688c61b0f4d6f3047e4a112a38c15b6558d73e1b
+016c8709515a43733c00bce60f44073c329be5973bb97ed588ff90b37aa05d20ec7155e549c1758b920c7e146b164dbc4ec775fab2f77541e99453040cca3045 c0a947a356ceb4dc8c2ce73d70ddc6210607036caf55059bea6d1460efa1cfa28254a13d92c7c63a9dfc08b21ce30e9ed1c7c8d088db73c9bf19e980a8915590
