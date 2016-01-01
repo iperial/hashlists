@@ -6,14 +6,14 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2015-12-30 00:00:00Z - 2015-12-30 23:59:59Z
+          #   PERIOD             2015-12-31 00:00:00Z - 2015-12-31 23:59:59Z
           #   COUNT              1
-          #   LIST CREATED ON    2015-12-31 00:30:09Z
+          #   LIST CREATED ON    2016-01-01 00:30:09Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
           #                                                                                      #
-          #                       Copyright (c) 2015 by Thinkier Works AB.                       #
+          #                       Copyright (c) 2016 by Thinkier Works AB.                       #
           #           The content of this file is licensed under the Creative Commons            #
           #    Attribution-NoDerivatives 4.0 International (CC BY-ND) License. To view a copy    #
           #    of the license, visit https://creativecommons.org/licenses/by-nd/4.0/legalcode    #
@@ -22,4 +22,4 @@
 
 
 
-2accac068c3f1c9b53d49a4b0ae850cda10edbe68d27c9c61b515672c3ee81bf7e00e4b071b4f74328ddc5b5e779df4a15cff2ec61231459e05ac407cf62d340 c1c5488ce7f4e4c351699d82419ee74fe84d8aeb095acb385398bc3f7932834a1bd38bbc4b6886e988675c41e662241f3d4ef526f50c704bae0f79533da0d43f
+9e06e3aedd5a87480246c6983b5ba5c0f512b8652cac4544b5ce1ee6ee19010dbc2ef7590a20c867685d06f6b6f977bd601cbee077ddec9445da7a877539e316 4361142636c1ae7ec53ec391f17d5e77a9c9715a2b2f9a39347864779f1aa70de095d40b9730a2e26b61cb08152e721e3e0e80ad36228d5e07b3c15a183b6eab
