@@ -6,14 +6,14 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2016-12-30 00:00:00Z - 2016-12-30 23:59:59Z
+          #   PERIOD             2016-12-31 00:00:00Z - 2016-12-31 23:59:59Z
           #   COUNT              1
-          #   LIST CREATED ON    2016-12-31 00:30:04Z
+          #   LIST CREATED ON    2017-01-01 00:30:06Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
           #                                                                                      #
-          #                         Copyright (c) 2016 by Iperial, Inc.                          #
+          #                         Copyright (c) 2017 by Iperial, Inc.                          #
           #           The content of this file is licensed under the Creative Commons            #
           #    Attribution-NoDerivatives 4.0 International (CC BY-ND) License. To view a copy    #
           #    of the license, visit https://creativecommons.org/licenses/by-nd/4.0/legalcode    #
@@ -22,4 +22,4 @@
 
 
 
-4b9d5f4a89942c49b68425f868afd5c050447cd1d22b877caa7965fcac74c3093466962d8dcad229f0ccaedecced0197de338bf5fb0953f3220a964526c3e18a 55aa77a8bdacbe3769e2b97c8a46e333a6db5c3b46de26b013309b97f2a45ca4e169235c4136b2865af6c081da6d12f3b88cf4c3d3c7a03a6c0d2b03a0970b0d
+0c0de570ada3bc61c9607190eb09cf79be42b527e335f80aaf92d4d3abba5033f053bacd2c88c5ecb05904cce70b295d9d5e04903c70d7cb87a0f17a1163798f 37a01207b795ecd3fd385156b1fbfe814cd4624978dde9150c1a16656dd761e6e42abafc303ff33d171985438bc80ce9dac24060ecb26f14b772312881e51258
