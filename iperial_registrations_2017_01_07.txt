@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2017-01-06 00:00:00Z - 2017-01-06 23:59:59Z
+          #   PERIOD             2017-01-07 00:00:00Z - 2017-01-07 23:59:59Z
           #   COUNT              1
-          #   LIST CREATED ON    2017-01-07 00:30:11Z
+          #   LIST CREATED ON    2017-01-08 00:30:03Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,4 +22,4 @@
 
 
 
-3232990023dbaedea4326a4a2f88885873c3b7f1b05b9c2e4a504a5b2fc163d43728170e6390c57fe67b2d0309d9f9eecf4bf29fe0b2f247dc183d8e1b1075b4 240e1c4adaf1efd1024cf82ef4a2084d28c444adf60fcafd5890648a0a01908d5eace7612916a16cff0cebb028c9202c767fbb5ab8033c9c6f5d8e3828b68cf7
+640c58bfda246bf157c41145f4ceef0f8db081716374990eb4b6a170c8343dc18485b60c76f6e6652743be45ce0dc8ef0f1381ea9b9fb7a49dd149227ad66421 7fbcf9bc88b8239a3edf435114abf298c0da7185c7063761829a7e07ac10fbe44f37e0cc14b32f783f0d1d70c0d08186a45c1a36facc850386732657ae7ac73b
