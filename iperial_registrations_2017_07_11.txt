@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2017-07-10 00:00:00Z - 2017-07-10 23:59:59Z
+          #   PERIOD             2017-07-11 00:00:00Z - 2017-07-11 23:59:59Z
           #   COUNT              3
-          #   LIST CREATED ON    2017-07-11 00:30:05Z
+          #   LIST CREATED ON    2017-07-12 00:30:07Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,6 +22,6 @@
 
 
 
-664979aead9c91793a9d2ad98a078fdc1dc62484306099bc6ae0f482b6439e9c8d09f3d1e1bc3e61e70d55d4d0716d11cc6f9abe6165a821a2cfb633b715878e 85715f9c715ec4660a10ca8582ced2ad4897d3212e04fab82d6af075adcd4261be043f9923637c1d5ae564c8deb4a35cfc064ab7b55398424b0ed38b11e7de8f
-e289361e7dca8b2b21d1f9cba72cbdf503fbb59deda5dbd366445933eda8a7677412abc0a27c1f7bb5ad5ba96a044f87541fda2eb1a48b48154c54197e9f2140 b54fdea75a8d3e50c18c6dce67f9256bf23c4c57007ff5c6e119c4ea533d4b17bed8760ddf14d14f3a2de8ada7f36ecaca741760d054c6ce302a45ca21cc696e
-5f972e24c67ac1ed9e5149b6511b5397024c1c0fc12d96c6b44ee2619f1a998ae5136290e985ec7f97871e3294de27d4388d422fd4c8934f48f2c120610734c9 bf7b17578467fc2f440b8d4143a5e39812721b7b17b4c8965d806239c1735d78d353e3890b620b89895300b8e2ae658d3b770bb41c87c0dfb5c29fcfc80f0392
+3f73b53b6df7c38bcd32b800ce1300a780fb792a92184f0294a052b990aa15c4438315caf48926a4dbc6252acaa88d00fe37c217af7cf9d8c8c4cbf2b6178c07 2e45de46af8beb3e780c545e9344f0d5635a47bb38f524dc095f1a1640e5336c20c0fbd25383ec95bb06acd3daea9c78125aa40b2311010598b1236e0ed002ab
+aa7f8312fa70def350b5376bead4a3184451ac3b0af3a8661a2c326be2871e4cb6b45354c33b72ae50d434b9de82c1a11db1944db57ea4bdbfe61084df957261 755c69dd0914a3195b6cef403fcd6384f74dc4db90468d5a78051c3d55e82d56e856216a686eefe22fc76b15586fdbad65ef095f1b320aca396351041e0d8010
+759cf6c0afda976742ec61f2d764a74205d0e478c4accc5f694448a708a76cd95c14967a740ba93ea9b36cbc28c6f04525cfd368e543e4c043f024390d118fcc e074e20e556428c30e400b85825f46194f0a10d54839252f4d21d1c17315cc2b42c3dd66c4da1f91b7a695b75771eff4af17567d790878b744796c082d461515
