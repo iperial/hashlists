@@ -1,0 +1,26 @@
+
+
+
+          ########################################################################################
+          ###########################                                  ###########################
+          #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
+          ###  ######################                                  ######################  ###
+          #####  ##########################################################################  #####
+          #   PERIOD             2017-07-14 00:00:00Z - 2017-07-14 23:59:59Z
+          #   COUNT              2
+          #   LIST CREATED ON    2017-07-15 00:30:04Z
+          #   FIELDS             CONTENT-ID REGISTRATION-ID
+          #   SORT ORDER         REGISTRATION-ID ASCENDING
+          ########################################################################################
+          #                                                                                      #
+          #                         Copyright (c) 2017 by Iperial, Inc.                          #
+          #           The content of this file is licensed under the Creative Commons            #
+          #    Attribution-NoDerivatives 4.0 International (CC BY-ND) License. To view a copy    #
+          #    of the license, visit https://creativecommons.org/licenses/by-nd/4.0/legalcode    #
+          #                                                                                      #
+          ########################################################################################
+
+
+
+08d1aefc61ace1b4d505427dc20b9ea2a22beb70736d84cd73cb2b93fa619bfc9f4022c8294d3fe49c4304c67d478915669e77d7a0739f701c39438ab5a88b51 7d6357d4b62996123dc6674d96932066f58d245fccd10693527a915632c65ea9c1fe7d15408fae83a366bb7f70021faba45c83dd578b56f0493dd51d506ac237
+651ddb91a5727854710d05db0b2fba632a405a587c0d5ec2c81100f0809d8bcc1093cb4d0e811451b6303c029485127fed8c39c18f51bc0323b442c7f3e0d411 b302cfdfd5ebf3f13d3a85092d70b0b814e3172676f500284ec32d9ad90163f21f99c69ad2184df898624b7b335cafbea18d1ddb2883c5882506cad30ab6d86f
