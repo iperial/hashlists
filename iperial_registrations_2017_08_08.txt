@@ -1,0 +1,26 @@
+
+
+
+          ########################################################################################
+          ###########################                                  ###########################
+          #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
+          ###  ######################                                  ######################  ###
+          #####  ##########################################################################  #####
+          #   PERIOD             2017-08-08 00:00:00Z - 2017-08-08 23:59:59Z
+          #   COUNT              2
+          #   LIST CREATED ON    2017-08-09 00:30:03Z
+          #   FIELDS             CONTENT-ID REGISTRATION-ID
+          #   SORT ORDER         REGISTRATION-ID ASCENDING
+          ########################################################################################
+          #                                                                                      #
+          #                         Copyright (c) 2017 by Iperial, Inc.                          #
+          #           The content of this file is licensed under the Creative Commons            #
+          #    Attribution-NoDerivatives 4.0 International (CC BY-ND) License. To view a copy    #
+          #    of the license, visit https://creativecommons.org/licenses/by-nd/4.0/legalcode    #
+          #                                                                                      #
+          ########################################################################################
+
+
+
+b8f5904dcc1f1cbd2477fc9aa9eb4020071df286fb34ebcee8660dd5418e02cb686382d222006a31373c9751d8f9bd692c4bba03fe79759a21deaf8ebe169398 02afb639c3fbeeab41f64d79127c182a0c5e9705fea79157eaab6cac5cdfa9880045795cc9875296194526a222010a9da5efcb314789b2c6ede6239cd81f43a4
+a261dcab68d64a7c2e5a1913ec48d788c589885670b77be6b2019093a38e1ab6417af506a8d16bae96fc1146f2e67c07b2e49687f9b4fd892f7bcd52d8bd63d8 993e8df933a2f813d06b1486624baa72348cd839ede232513cfb2a18aaf40ab159fb81ada2bd6fc2680436d7c50552d0ea7076a7a76f93c3c2b1629bc654f1ae
