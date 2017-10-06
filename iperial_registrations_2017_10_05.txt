@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2017-10-04 00:00:00Z - 2017-10-04 23:59:59Z
-          #   COUNT              3
-          #   LIST CREATED ON    2017-10-05 00:30:04Z
+          #   PERIOD             2017-10-05 00:00:00Z - 2017-10-05 23:59:59Z
+          #   COUNT              2
+          #   LIST CREATED ON    2017-10-06 00:30:09Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,6 +22,5 @@
 
 
 
-3a6956e3761bf7ce04c034a83fe68301b69dd3b5fe63f4c3bd6a50010cc123d74e884e8576730b8bf69b1931a1c03f746997666ab8c15585a2566f0b13e5d76d 34f5c73d4482255b7fbc669498cd27e206a77c1797f55916d3b1d26fe8f14e8bf786058ab8d8dbcc420728c9d0c1e71cf4cdb2c47bbadaa5a4973bb2ca16bb8d
-56b2759dc84700603b33687af098e2d2da9ae7c6771d0d95afff9c14b72b4e8a47297021ffc2ee24a76e3d7724c6cd965aa3f6c860a8ce036f90f65787d7c522 91984d9085bb37194cee29ac6885aafbebb18e824ebcc797c8f9708f6e910312c2dfc0a01bcfc6c228f8034ef5209ba8f7995f07d5fb2907ab10eb810e8d0b42
-356793ea2c8f16c90c2ff9987a1ebd77d2658b84e7aa0ba65ae23577f2615df5a167add967eb7abaaaff4a0f6f29a9ba5752f708e8b9453661d628fc8434ec03 f539b754196657f3dd68436acec5283904fac0807fbc5bad16333baef5aee3b5e18d0d51443e3f47c5d1906c3eb88529783136ef691be71aac457a5695a10881
+77c78f91c74bd57c2aebcb0513e2874c0ecba635f4dc9f5ce003ddd84e874592194aefd6804d9df0ea8cd1bc7c4efdca594138a091a99b5c39ed705245a4240a 04e3ff26a0e03df9dc4170535a9b5842316efb6ab7d54d8a820a66e2114c650fe3cecd3490857fe26377b032bfa2970bbeb040afcfdee357ca5f2724ea054c8b
+a6583df6cd1beff50486592ec2be1c005933b811ed9a69c6f86468687dfabb7fe0903caab2d4f737855bd5293aad5cd358567268d922c301ceeabfd90769c9c7 8d66c0a7d44c74f4f53149b7a769859ea3aff5a7f60d379c006052566605b478b098a888b621dec1efd3e5f5208677a42d86f63a29b8d2f659d85d3fda98e80e
