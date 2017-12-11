@@ -1,0 +1,27 @@
+
+
+
+          ########################################################################################
+          ###########################                                  ###########################
+          #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
+          ###  ######################                                  ######################  ###
+          #####  ##########################################################################  #####
+          #   PERIOD             2017-12-10 00:00:00Z - 2017-12-10 23:59:59Z
+          #   COUNT              3
+          #   LIST CREATED ON    2017-12-11 00:30:04Z
+          #   FIELDS             CONTENT-ID REGISTRATION-ID
+          #   SORT ORDER         REGISTRATION-ID ASCENDING
+          ########################################################################################
+          #                                                                                      #
+          #                         Copyright (c) 2017 by Iperial, Inc.                          #
+          #           The content of this file is licensed under the Creative Commons            #
+          #    Attribution-NoDerivatives 4.0 International (CC BY-ND) License. To view a copy    #
+          #    of the license, visit https://creativecommons.org/licenses/by-nd/4.0/legalcode    #
+          #                                                                                      #
+          ########################################################################################
+
+
+
+2f7790f90e15b26fed35553b54bdbf7ee8e946229d755b735148019b2742875149b870df77ec063d9c8ee3658471456e3507f6a530744ded64ac78a2532dd0a1 2232e45fc121a6b6e75bd293e95a1bd81826a6d6004ea21d21943d25147e2617f5280ee4a95d50bff8a6d4b8042bb884e96d2f6cfea9110f4d23e3e5006fdb5a
+3a3a301c4fc7b01bebaa461cc63146e6f99b55da08700c19200a7732ac4d2bb61cf935735d7464c65d773454b9b6324ed67761b8e3e413693cf99ff1d62a219e 36e8ac99f44a7bcbcea9805271bdb34ead3d3fb49ec25e07fce9401fa6dd05516b6c1a0125cbf36e6853eaf1071e69a68cef9809ed984cc7ea1ab79005ec9568
+5d3ff586985db0b1ac95bb6a0bd468829b317806b1fb21c0b2535823c82a7746a26a643cc421f348c89f67df10f8faf906d9611c09c1c2656f4f6faad43ff794 53d36765bf7f48e5c0e73d6e56974f6adf137e9aee5097b5c39578c29405f5c34519d7d98b3e02b4ec07fb8f6917a04baf8748fa448a2a0ccb5b0fc8e0d020fe
