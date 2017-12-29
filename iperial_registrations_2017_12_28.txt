@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2017-12-27 00:00:00Z - 2017-12-27 23:59:59Z
-          #   COUNT              1
-          #   LIST CREATED ON    2017-12-28 00:30:02Z
+          #   PERIOD             2017-12-28 00:00:00Z - 2017-12-28 23:59:59Z
+          #   COUNT              4
+          #   LIST CREATED ON    2017-12-29 00:30:05Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,4 +22,7 @@
 
 
 
-cda7c291d7628b1e154253b571189512436d7152145035e810c4fc9c286dabf5a872513b20a1fd6b3a065765d3ead97a4af8751d3a7232d8395aebc030881f30 312a346feff1a31d7a7be139dab155191005388e24136415ec17674a3ada13a54778afa035c411425c597597bd7dc23fb5a6bffcd3e3e0b2c93cea6d7f7e1730
+fb8dcd357a3cea66766da093efb0231c7f1e858fc4c558065cd2d0e7a57f974f3bd245aa62cf250e4bd75b11799b2bcdef0ac4ab7a0f3b1ee51ca87699f9fb16 2b32cb5a9638df55a713cb07c596fcae223eff0169026c68e3c4c9608e319afcac5a2bb3715ca42f8d08c7cb619530948c3105f6ab941a629f118235b467a794
+bcc6645192dd44ba4e18fd341258e64021d46dabcbcecb98fc1a5b27a9757862b120e1d7cbe4511d53b945af1f2714e14b27079d4b06e011b38a547c763bdea8 833d720f354eaa92aaabcd06e85a27ffc740ca25af39b7c56d92062f4515b78a9bfcae25fbb08006ca2aa2351a65c16bbfc1746974b2526c5159bba715bce966
+447f2cd74fe15f6cf89c58000f667f6c8e52991847ea59522881a1dc69360dda55c0e7c007da9de89d0ab01c5196047b3036089e80fd96f40bd10331cdfb112e 8944f5cf49f617055c5fc3834d5d806b1a2ad5063f170b9d26e378cbdc99043eb87942a9ef7a7d243de9257efc1409a3bacbf65f9be3908b6a12663a72237e73
+96c3da0c2b1c0c9260c49435c8b758cf130d42f8615d38eb330f8bc638dc30164f385571924ba539d2a34e873f7ac0850e29ca21ba7dfce837189dec4529d6dc f51dcb9f59a946cb7929dd9852c82ed067a238ac9edb2a4211e0c4d3ca349b0db50e7497db46b4c8ba0a1eb94a89b21448a10849567c92453c4763789adbdf0b
