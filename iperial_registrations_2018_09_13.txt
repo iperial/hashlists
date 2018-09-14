@@ -1,0 +1,38 @@
+
+
+
+          ########################################################################################
+          ###########################                                  ###########################
+          #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
+          ###  ######################                                  ######################  ###
+          #####  ##########################################################################  #####
+          #   PERIOD             2018-09-13 00:00:00Z - 2018-09-13 23:59:59Z
+          #   COUNT              14
+          #   LIST CREATED ON    2018-09-14 00:30:06Z
+          #   FIELDS             CONTENT-ID REGISTRATION-ID
+          #   SORT ORDER         REGISTRATION-ID ASCENDING
+          ########################################################################################
+          #                                                                                      #
+          #                         Copyright (c) 2018 by Iperial, Inc.                          #
+          #           The content of this file is licensed under the Creative Commons            #
+          #    Attribution-NoDerivatives 4.0 International (CC BY-ND) License. To view a copy    #
+          #    of the license, visit https://creativecommons.org/licenses/by-nd/4.0/legalcode    #
+          #                                                                                      #
+          ########################################################################################
+
+
+
+cfa4e6db85f912710026f303080e78f546223a7029d8e952acdf9edd8812d33353b91c24d2646939737a4f35ce5c70171509eff4a2c8fa08744d9ec56da2c8ae 044cd8b06c5745cb7d478aa730236a460cc19a24f0fcb791b6e87426094723e757d3a3ed4a0bc6cc67e2b22dbf251c11728a3277c3ac016dca68b0e835e227f2
+70e122efa213b1384228d4ab42cf180b628b43f2a355ad25e10627cbb5de849172af74dbdc1fa07234882ede4384b7dd4453e626dd7e63990f4895b2f9a924d8 0a045cf15bbf2b96ac3026e47ae60e859fa4fcaf2f3946e4b77e9cb616e9bd76837594b56213f433c3991e6b682f422c1c3afee7031558e8a2a4e7bbf970a44f
+ef020a4e627a021d9a30adc23abaaa3a9bfac5208c777af740d504f8f2dbe0814e008cce52c83d17503ab05465533319fd3807f70607b920060961d32826b686 2cdc854ead67021ec1a92a830a061a6f88327c8cf25200d001d56b2b94bb0a4f4932d7c467a0efc38f4b2e3a789c1851f3fd44f2475025a2b27b1f596df1a367
+c65954817de72f50732ee56cd76cba2a0716f92e1a513700ca2429507540f040db9a82c6694e3826ef7671184badbca39bf640e1ebfa49df59b4420d08c80201 35aae02f01f13e089b82d8f07720522b97a8af9b8ce0393cf0d85cee0b6b440daa2565d3e8cda839681eab551fc474468bc396bed302f1e9886412d4e2621716
+f36b1ae1fb099c569d9d0a2195f6f54471371eed3af6ef3579ffdd596646247217d32f79ef06387294a8595a2aa165b20573a2e45be68ffcc24d8ce2870153c2 46ab7cc88d5ec37baeb57f5f960b550f70acf43b6cc65d4b5f5ce941ab8117a8d0974f868beceeedd6d591b9384c6229cfbe8908880bd037c8cdfcccf9dc90d1
+6a85c815d58dfd3f28b52b91a75576591ddf318cd0a683aba79c291655fc78661c03fbb2dc06ea6d7cb5f3a08b07bb0608595119ed3f053c1a129a23b93115d7 51925166c086684cb2b6567bd9941ff827ad7b2bd16133ac5684da695b6edc4b805c0bf150da35f17c7eec50f3bd0658163c4b7dde86666f58acf9142b1b7fb0
+277b29abfb5fec1cd53c8de31603785e1261de4a46e8c48f932b7a9e897a9901b9861be3d7a15018a448d3211c35582463de447292ac01bcfc26c0924b833a48 7616973355856dc69ca0d2b6c36de1d705c2e2adfe1c58a22999479809eb14d9080ece0248f7e9cc4738cbba47adb11141afeceaa7452f9caa68aef49670d37d
+fe8b2678b04d3bf8c1c93dbedf8ddcf6d95226500c525dafe373c57c8de2b15513a5fe273d73e232af61949f0072b98080f0ced012e5c07cffedbdc0a18873df 7dc39df443ce5df5eae0a08e91c55d729a5d44c69fae90deff75111d078d39ed9566457aa0b0bba95ff3157c090953f1ed03c82d71c1cb1897acd2b6d2939c6b
+ae7deb6a5979d6c5d19ba41dc37af961c948e37f89ccc8838d56d0061a9eac6935216ad7a7ba2c336629355a9e375eb4c20021b5282819b02301ae4b314c8a8a 893434a492076eb08ecb1c18fb8249262344472788e54688349cccd2e81967dce670f38349b3ce03d05b2f5182165ab9f125d689935f35caa9d4ef886888dc99
+93154f63858a29fc41512c64988aa8e090a032cc9384d6bd56e68edd414a90c781049be94046118b4ea4c52cdda1b45b228d608c427ce7d9aded83e9f2df8bc5 8c63f7475b7b07c5a7150eab5cff3bb0ecd9b2e922e6da741eae63fb19e771eee465aabf4ce7d003d11dc44c9ac2114bf10290e41e1af66b468c2f9f0910442a
+50db2d67a515d793a6559c90147294d7f7cb94c322144590cca48887a139404b85885fb29ab165cbae4f4d9e2c65ff5c574fe212db70bed772e6e0e23b54605c 90c6736a102c126b232455908fc32d20ea003319ff850e52f1a64e78266a174e3365fffe07a5a85ac6116409c08c4209b57a805603728c2c961f7b4d57093e4c
+2cbe6e8032472d424ca405e6d8060ce393918aad07fad320e284afaa5413f65634de8a85aa2d7fb9823201455c38944c4d8c0bb5129543ac3a706ff296dfd8db a3daefc836d12e40849a6148d77e0bd9eab9ca5db6862f79559061a6b3c3b769920b534dd3e029048adaacbeae75fc21ef9e32eacb9f48c4cd1913a6259dd836
+f4b61a2b5c74f51d7ba0a315ac69a4e99f02abda31856e3f891173d54b0af8598b73f40a9db4346c411c7e9ddcf4267421fddcf2ac73cd7086f5235394a70cbc b74f930d49fc4e0fa2f1d34c648ca74c7459cfe12ec23f773e5fc77f8e06ff7f173bb7a558cb3f33c6aa23b7d3f8bb5dd6132ba55a81b5f6e1fcf6fcd7376db4
+681ea6cf42e1cc26dbd4802df541a39ca69b1414ba20122551dc049d41b5c3959fa807d70ece732b48870222ebf186f8ddc0c87c7cb01c1ce3beaa218bd5a9a3 c9c1e2088a2ff552770216ec1d112a803175d5ee731e60d27a2666bba7c9e57db8f228cd494b5f9d4601ee81684acf89531537c70f1020e1ea4b28e526540a47
