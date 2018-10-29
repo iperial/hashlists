@@ -1,0 +1,28 @@
+
+
+
+          ########################################################################################
+          ###########################                                  ###########################
+          #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
+          ###  ######################                                  ######################  ###
+          #####  ##########################################################################  #####
+          #   PERIOD             2018-10-28 00:00:00Z - 2018-10-28 23:59:59Z
+          #   COUNT              4
+          #   LIST CREATED ON    2018-10-29 00:30:06Z
+          #   FIELDS             CONTENT-ID REGISTRATION-ID
+          #   SORT ORDER         REGISTRATION-ID ASCENDING
+          ########################################################################################
+          #                                                                                      #
+          #                         Copyright (c) 2018 by Iperial, Inc.                          #
+          #           The content of this file is licensed under the Creative Commons            #
+          #    Attribution-NoDerivatives 4.0 International (CC BY-ND) License. To view a copy    #
+          #    of the license, visit https://creativecommons.org/licenses/by-nd/4.0/legalcode    #
+          #                                                                                      #
+          ########################################################################################
+
+
+
+99e64a04828f3789ee443cbfd06184ef28e4f845a3cf6170b427555989e892e57144f36c1887520f143e4a21cdd06ca701bab019ee46e1236f1421a2c28ceac2 02638086926a97f58b2c82a5556434b6cae23a13791923d9217e85ed5a8460c4d426c1d524f444ebb0744dabe655fdff4034270bb197546f18e8b0b09afe3cdc
+0c56f9ac2ac0b3c126e5bacad1cb16ff967bb283b9d88d28b7e9be0ab45c99801f3c9db946582a202285b7df4b6309d61d26d7e69abf486041df26a090346947 71f8e752c558a9ce526a2d5d9fee53e245813e3e45ad66b3490e550a37947b2329167bb7e5ca1f371bfdb5ef85a5a0312981eb0b5f801083629b467a3c52c55b
+e3ce915de6b0260403fc2dc51d6c671cceb12fc0050fa27e902fa9c1bbd32af49f6eb0308148158303adfe7bd388292424fb4d3c8c2fa1730ae7ba9057e33735 be02a9bd7a99da369e362f176b2099c8c12739b5b0a779d9124bc5181bb18c88f4609522821c86b7a81f570076d5966656d2492ec918e02bdb9b50f018b8a3d5
+dc58581304c16ca54066d589a339a0678a61a04af6fb3e905c0ac2288ed73a3a4dcd71922d1d44a1124f4e58ad7e5e35d6007f4a3e31ec8132aeb8c505354c67 f553b794acc292f3aac5569017f9a09ac8d302a3d9c7403e97640afd79ea1de6ba62bece2a4c08ea1cf41683e7f8cbc50aa1ec306fd50bb26441adb3eedf7d33
