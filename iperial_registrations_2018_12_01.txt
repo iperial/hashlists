@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2018-11-30 00:00:00Z - 2018-11-30 23:59:59Z
-          #   COUNT              4
-          #   LIST CREATED ON    2018-12-01 00:30:06Z
+          #   PERIOD             2018-12-01 00:00:00Z - 2018-12-01 23:59:59Z
+          #   COUNT              1
+          #   LIST CREATED ON    2018-12-02 00:30:06Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,7 +22,4 @@
 
 
 
-2948fe30d904b3cbc7b9f53982396aa75bc10674501456dd98c78108cf2bf69c6e16c88e8da3b87dc5c61e6f29dd6841321c8fa233112b1a432751fbeff55b88 56b25a12110738700a7bbd6c8f6d49567f74616dc0c2884b885e3ba4567760950a4c2f5001b133cc72fa697aa220b2371008052375fc0d012e3c8288cbec36d1
-61deaf65f0c91816175774547a34d2998ff0179e61677f70bf062f930c3acad523106c66aa3b92d326021f83c35079a02e65180c09e4c5a97ec40a0aae6d2b51 a6180255376a3cfe4806e77d3dcd0b5941da15754ddf7a36717a7bdcb356519d557f9f37498ae8a782ef9ad6bf11036cdda85f4a949b50b844f3d0756aa7b98e
-e92ee7f90c2daeb8689d36ff3e83f97a37cf8297d67c4a8eabb8767ce3df47341ce759d92c7a5fb7e2bdd9157a0ac62dd03bd54047d0954d7f9c358321d0c039 f0fa85e294def436bffa28f5b88eafdb120df37af731848232be61db0234cfc0f9b70abbca613a63bcc274bcee5c7debebc2474736d40822a14c786dd9a6409f
-08c7cc87af8e6356aed3398aaab32b871ce8fb0b319fbfdd14b3ea5cf8d1c6c2b6472315dd6db7c04183e3d74341f66254f7d2dd046c6b3b2313c58f2d23599b fe3a87592819707fa09bfa514add20f42659bda2e21a3a130f822c63cb8217b620d7a538366cc589997960c87d54d1ce865fea3b6f04f0391ca9bd08d9dd2f8c
+5644d6ac844dec739ec3cf5c80c239506e37c2f0d2b4146c66d5e5275ac39cabdd1f0c2e176512a1083744b49401ed72594b694e50f870a2e50e3f3354f68e7d 9c9d463430a5932c7ba2f02b66477277e04af37ec8f84933b9df4604b86bf58d125268dcc18103d5755b03141dfa988f5c08283b67071325d528fb0004ce41f9
