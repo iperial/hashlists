@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2019-01-12 00:00:00Z - 2019-01-12 23:59:59Z
-          #   COUNT              2
-          #   LIST CREATED ON    2019-01-13 00:30:06Z
+          #   PERIOD             2019-01-13 00:00:00Z - 2019-01-13 23:59:59Z
+          #   COUNT              3
+          #   LIST CREATED ON    2019-01-14 00:30:05Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,5 +22,6 @@
 
 
 
-2b202eda6748dac8f52913c53d1b312e8e035eb431593c1c0fdd59652272aa5c559e0c311d382cce468f14a91f69d57a184df65170dd360e44426119c6539baa 36350fb3e9741bb8756a9682fdff7e684eb7e713060ff6839649dbafaaf2bdcad116aebcb5e1563d20239c619169c1911947631a152bda0a27d6c50eb7378c98
-fa8b248fc6255d586e6c9951bddae2211b7d34a60a050fa853dfab0aa2f700b647fb9bb0aa0cd102c31e031592f30deac8ec7781bca3539bc0d238adac75c4bf 4d387d8789d3e504ad321ec67a13de8c3cc6ea7d89010da6c1f27cdc5af80289087159961fe9e5640bce28d4145a2b7f2188e137c43262c2a9f000fdf76e4945
+3669ab17b957c18172c610a28f7b6655a3ea2a680cfddce35126996a2e31e61307ae77437a1799493b7738d66a6b74cda7f7adfa34827cfb9c07fb3330bc76ff 27cfed35cf26dc62a31cb55bffa980d4427ee1d23b0b7302a35939f4eedd7faf89366047c626c1474bf0f3d118ae8346dc0485bbc9612422a44dc88f044cc971
+e4990729d8b611d6735c86e0c7db2e5083f89f81977b33e087eb666f47b252d9e57712da6e4beb1a38a47a56c636952a3ad4be6f8a28f630c01e07489a3e9daf 3a3ee2104b751e961bf070fb44edb0317ebd8d4b4736d2774480c4c037155ebb42d9d900fca41efaadef9afe837574f357bbaead73be2218a894ac15859aa482
+160ad52251a96d49b7568d6c9a254630e5043d5b83049f0d5175b56160559f85d37807ab00189d2ea4d6bd6538552d7e6b827b1ca63c2998cb037d6029653016 69dae3586d983488757a64b00dea9ec3c145391c0d10458ccd1849cea8bfcb480516d42506cc657396c9e572ab78521dbc6c22971c39e4f8dedf8d6be10e9c4e
