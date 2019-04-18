@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2019-04-16 00:00:00Z - 2019-04-16 23:59:59Z
-          #   COUNT              4
-          #   LIST CREATED ON    2019-04-17 00:30:04Z
+          #   PERIOD             2019-04-17 00:00:00Z - 2019-04-17 23:59:59Z
+          #   COUNT              2
+          #   LIST CREATED ON    2019-04-18 00:30:09Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,7 +22,5 @@
 
 
 
-a1d75cea35215d50b37f9f06a411147372e28aeb3d694e4963821e291d602741af87e912f993a1929be2ea9061471c3294a5c52db014cbe609cc72cf58fb314f 2e184258dd158aa3044b1cde09122b700d7cb1b4170a812f693d4782b33f42f2f4cafce61c7e2156a4839b39b411f9e2d875d7c08c52121a06771ec84ae18472
-0eccca1b68f71e5637cc965631952f36896718566a8f5c9261bfa66a61e710ef0207dbf90d86c5ffc550d66eeac3a8cd4c63626e0ce56c6d474b27508fdacbc3 735cedca4fb095bee7a4174f07f88a9097f9377bed4752313b386ab34a7dbe14584fa994b96d53a46670b9398cc33269cdeb8b2020199fe75a2fbcffc1b30598
-f3f877e6d1dadfacea37b55af48da3d66514af0f1613c4eca25d4677efe39638d02973c48e2dab85c9b502a024393212fe5cf3d6c3a9a2e07a27e52785744516 afbf2f12d3cee5c4940d128229339fcce08b41863d180a46c903183abcaea00eb4863aee80be3b8708d2643e5295c8345148e02361ac0d30ac9107a7c4c8a246
-103e5e57b3201609ddba31e82a6f688bc9a7c5d97866e9a603ce6453d763e6307dffd20dff7fe61d604bf38e2501748ee1e72ce47034f7731aade39397661e73 e95a66cb217d32213b55713059f82dde3962fe31b5eb52e12be24bb1384263e671dcc6dde7b5e4b94ece0286ac30b008371f72f0a57008aca10299569fb07dec
+250b0002313a3a7671512295232ad87918889b69f7426ad818b44741d51abe309517a9223b7160235cb32539d64d4f9f4a31b66cbf4526eaa8ba347c3e571a19 025b979352d75db4d57bfd3c8ce01e4c69b18767a1bf6ce9e2d6e1a434c54c2eab64c2a5dcc1d81ff77553b8e1089ffd1557f63f6b4c0a4cdbf96e1b7a19e73f
+8d465cd2f2d63559b88137ebfd5dc88e27b8faa830ab41b76d730769a6a91bff8bc61b1eeb3111f3d929f220c40e6b43dc650d6d628af9b570464a5fe49cd749 875084d445b6e1e88e37262e523ba397b1916f2602db1a58699d43e3d3e54ecf3c99f84184e57eca358fd194948fa6084fa17149a20e728d36e18e3dd8b4cd77
