@@ -1,6 +1,6 @@
-The text file named **iperial_registrations_2019_05_21.txt** is the list of registration hashes created by iperial.com during the period between **2019-05-21 00:00:00Z** and **2019-05-21 23:59:59Z**.
+The text file named **iperial_registrations_2019_05_22.txt** is the list of registration hashes created by iperial.com during the period between **2019-05-22 00:00:00Z** and **2019-05-22 23:59:59Z**.
 
-The SHA 512 hash of the list is **912a753268923f994fe6d41f1440584667b93509ae436b53d57a20fe080d76d8b7963f6eec3a11c25319d223db045d33eeac60eff0f3d8cdbaae2181f3a0f574** and the registration certificate for the list can be viewed at [https://www.iperial.com/cert/912a753268923f994fe6d41f1440584667b93509ae436b53d57a20fe080d76d8b7963f6eec3a11c25319d223db045d33eeac60eff0f3d8cdbaae2181f3a0f574](https://www.iperial.com/cert/912a753268923f994fe6d41f1440584667b93509ae436b53d57a20fe080d76d8b7963f6eec3a11c25319d223db045d33eeac60eff0f3d8cdbaae2181f3a0f574).
+The SHA 512 hash of the list is **e6e2ca9d4345e2a941a50b4c956f8c63218d6ecf961ff9c67872e251727b2de367f7388e996fc723175ad554a0c20def1af32bea54b95d72e0522778abbf2161** and the registration certificate for the list can be viewed at [https://www.iperial.com/cert/e6e2ca9d4345e2a941a50b4c956f8c63218d6ecf961ff9c67872e251727b2de367f7388e996fc723175ad554a0c20def1af32bea54b95d72e0522778abbf2161](https://www.iperial.com/cert/e6e2ca9d4345e2a941a50b4c956f8c63218d6ecf961ff9c67872e251727b2de367f7388e996fc723175ad554a0c20def1af32bea54b95d72e0522778abbf2161).
 
 To find registrations for a different period, please see the corresponding commit.
 
