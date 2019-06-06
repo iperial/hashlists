@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2019-06-04 00:00:00Z - 2019-06-04 23:59:59Z
-          #   COUNT              3
-          #   LIST CREATED ON    2019-06-05 00:30:08Z
+          #   PERIOD             2019-06-05 00:00:00Z - 2019-06-05 23:59:59Z
+          #   COUNT              2
+          #   LIST CREATED ON    2019-06-06 00:30:18Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,6 +22,5 @@
 
 
 
-b3dea896fb4db95271ce0c2cbda6cae41fdd5f8379e48fe098eea34b801fa246895a2932b5494bbe0a571ec0a0c574dda4492746593600f3588b7b181a7df8e3 39f83b967574d4f03350caac468e3d9780836ae3bc4c4650a64e5ac3db22d960924fe39a737b5c90a68de44d88a61cc8c0884774a0acef8577ecf0fd047a596f
-ce7499de041edc40fe77b7a0c45e2a57aba44ed8b68a2bc53c0e7a97d23c36a2195361de5700c81e7ce1056f54d119deec8db7932414340a54aa2ac0492a9543 3eff7ea22364581c7e0aafafb4c2d6422458e0a6c3e246e7b1405c0ab072bbfc0bc5a015bc5dad9a1d3b574d5c6a891d100b01b245ed3d161544dfb73c794879
-9892d4b6edab178a55cf019af52007c31a0ff26ca3b5eaa89461eb5be55799d24dc5146457602dffbccf45f4786431e7a8877538f93149cc3c60ece38f779c90 7b1d8c2bb452669d044712bffc7dd1793fed7d409b9ca23505456be4d4dfa8cde197d00c7e416cbb4f96cc33869ef8e95a5f515e2d9c2544e4d6fe9d5912045d
+7cc18e8515fcab4f7907fae67b2beb082d3a78d6ef8130b4dc3859e718648ff515bbcb8ea4c249f3180b9e2a9fafa58002733510d019d74bd53426e1d519c37d 2524855294dba426d2514086464edf2c6abdbd8a3cfdba8a803e9a7a0a47c6633dcd54acb9f32091e13b6d8a35d32d06c07d6833f5fbe9acf95d71cf02bc7665
+3304144b62cef7ae482866a2d9dc9949e76cb76c09b894f33c8929a3486f6905203ec49039b7bf1858c2c730cbacc060ea7d779937fb8ba4ff7f5ec59f250ddf 8b97ec3fd9f49c2f9fb6a61941a6976e0aac726988b8d46448639627dbd2c9ffa387dd0c48f1f94b5eab923ee499ded2f622a34085696d06ad63bf624686ec97
