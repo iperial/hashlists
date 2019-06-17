@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2019-06-15 00:00:00Z - 2019-06-15 23:59:59Z
-          #   COUNT              4
-          #   LIST CREATED ON    2019-06-16 00:30:04Z
+          #   PERIOD             2019-06-16 00:00:00Z - 2019-06-16 23:59:59Z
+          #   COUNT              1
+          #   LIST CREATED ON    2019-06-17 00:30:06Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,7 +22,4 @@
 
 
 
-5bfc3455f7ce92735c59b7b55b454cd03bdf4ab6056068dde8dd93ed80ef1227ae911ed70ce981dcd36f73a18eab02abc6f137e27f414da631c9e58f31a615d4 27c29bdae3b22cf5baef63b99fc42eba90949c70962a0d2c2c8f861b47cfa014b7a6ad03b4b62cec82d148933107c00530ec6c6faa9479cdec083c1041d48f75
-84b50bb23d190e58aed18a0af6f37d6ef36789bcaa8e60262ef24d9284746078bfedf811ffaa0ffad809e98ca1a2ba0103904682b8bcc6de03bdbd0235917fed 2a971656194d6bda47f56e92290984e26be2d33cc93198d28896213e8a9aec66b5ea38f0f6e4b8cbd8b0a9086f6a359b906c1e6a41fa0a1d0ffd871653ee4f69
-87860e97802a79ca0251cc8d8c4f34538134ac835345df7772d01e0f09f1d7e5081471969725ca05dfe30b99efd7642e54e9dd2d466a8be1734834fcfadeb3f2 729d2678eba46226e145b012fad79f85d632f174196064b7a5f4d144127abc43bd03796347fa705f3e2b39bc1f6ffb2fb3e79b47072232d61f41360f3fb8a67b
-b941a4fa6ab725e71b7a86403593e206f3ecdaea292cac744c874e927260e371a2e04b6e20c73fd5f289faf43851e93aeb3e87e3b47a29e41a8152681ffe70a4 94a2132d51fcdc2abd36b44abad3c16e4c82d9cd9c8cabdebed2319270a60c8ac6a46add85fc3504de1bf7a02a5dade49c663227ab1fe1a6ce8f8a65db34f272
+cd9d2457bea6a058fde3381d0a69dc746809c4b921f1c3b36f258853afb74ae8b4ddb1d70f89ae2f13ff5c8be6a14baca325c2c9b612a20a017fd2a8b8006960 87a488a838eaf081c8db3742dc9267440bfb8775542974b13202e757d0f6b7c247aefeac01bad986edeb80ffa17ab308052c5fd361771f1e4de6bdc874744103
