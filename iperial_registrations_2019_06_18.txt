@@ -6,9 +6,9 @@
           #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
           ###  ######################                                  ######################  ###
           #####  ##########################################################################  #####
-          #   PERIOD             2019-06-17 00:00:00Z - 2019-06-17 23:59:59Z
-          #   COUNT              2
-          #   LIST CREATED ON    2019-06-18 00:30:04Z
+          #   PERIOD             2019-06-18 00:00:00Z - 2019-06-18 23:59:59Z
+          #   COUNT              1
+          #   LIST CREATED ON    2019-06-19 00:30:04Z
           #   FIELDS             CONTENT-ID REGISTRATION-ID
           #   SORT ORDER         REGISTRATION-ID ASCENDING
           ########################################################################################
@@ -22,5 +22,4 @@
 
 
 
-8d255e6b9f5f27e97c5421fbfb7316034efe95f82b938c5bb535f57e3dcddb5349747eb38c14de53a34c60d83c57503138d6005a5480e714570e84875080bf3e 218420b8fd58ea28bcf0e9169c14b81b0ecd8bea9df5ac12d2a514e1bef718ab8a2fed1bfda294da17f4c9631e8cf14925f8b867dd5e4ec80a4c4998aa347fc0
-462e6122b338685286829d7d92c05bbccb1f93da0a28c3f17f2821cade0b229bd1e4d182a2aadfa25546b02f9a1aaeb01de8830a5aa5a8706f8207a4174123a0 e033874412c26d8363e60e81dcd21d90122fb30d49b31b4ab663717121beaf170dc78331b83325afeaf0ba223904b291d50fd7ecced06795a0b8b55446864cfa
+f9ffdae545bb1ea3a68f35be9e112fcec270545aaa595851d4988ddda3b2008384f2e3b6f8192bb09e64c3697147e2df86417251eb52f5418b4f202ae8ebdfaa c664c8ffce94101a0c752e256f277cdb7110f91db0862ec4b6a69ec61c28952d35f7f4a3c54120945d6bbf90fffbb498658d4b147c6dd60cf27cb9e2e59e17a2
