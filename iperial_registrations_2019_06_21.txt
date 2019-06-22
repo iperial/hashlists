@@ -1,0 +1,25 @@
+
+
+
+          ########################################################################################
+          ###########################                                  ###########################
+          #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
+          ###  ######################                                  ######################  ###
+          #####  ##########################################################################  #####
+          #   PERIOD             2019-06-21 00:00:00Z - 2019-06-21 23:59:59Z
+          #   COUNT              1
+          #   LIST CREATED ON    2019-06-22 00:30:15Z
+          #   FIELDS             CONTENT-ID REGISTRATION-ID
+          #   SORT ORDER         REGISTRATION-ID ASCENDING
+          ########################################################################################
+          #                                                                                      #
+          #                         Copyright (c) 2019 by Iperial, Inc.                          #
+          #           The content of this file is licensed under the Creative Commons            #
+          #    Attribution-NoDerivatives 4.0 International (CC BY-ND) License. To view a copy    #
+          #    of the license, visit https://creativecommons.org/licenses/by-nd/4.0/legalcode    #
+          #                                                                                      #
+          ########################################################################################
+
+
+
+636bd2e101a33aaeba4e81e00369ac71601ca5e55aaf70484de21fa9b1e7680d48bf2c0dd450a60f7b5b514557fa3a5e9361f018826d6299e9692aaceb3cd465 b3940ccb8d3304bdcd316585200ecbe71345cdf9268556ac10b72ce5b39a37753271f87894d66fe3147ca95ea7584b9641f7ae0611ab638e4da697f469e04a78
