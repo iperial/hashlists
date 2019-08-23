@@ -1,0 +1,27 @@
+
+
+
+          ########################################################################################
+          ###########################                                  ###########################
+          #  #######################   IPERIAL.COM REGISTERED CONTENT   #######################  #
+          ###  ######################                                  ######################  ###
+          #####  ##########################################################################  #####
+          #   PERIOD             2019-08-22 00:00:00Z - 2019-08-22 23:59:59Z
+          #   COUNT              3
+          #   LIST CREATED ON    2019-08-23 00:30:06Z
+          #   FIELDS             CONTENT-ID REGISTRATION-ID
+          #   SORT ORDER         REGISTRATION-ID ASCENDING
+          ########################################################################################
+          #                                                                                      #
+          #                         Copyright (c) 2019 by Iperial, Inc.                          #
+          #           The content of this file is licensed under the Creative Commons            #
+          #    Attribution-NoDerivatives 4.0 International (CC BY-ND) License. To view a copy    #
+          #    of the license, visit https://creativecommons.org/licenses/by-nd/4.0/legalcode    #
+          #                                                                                      #
+          ########################################################################################
+
+
+
+4fbeb3ff179d2995d4a59ed3121a7a480dc94ea8991d60f089301afbe1744e16eee002f7f33e26b9edc82bd85d12298e3f26ec468213ddcaf9c582e913ccb562 0ed06998b38983b0fa049e32e010b016f2a9d8773c495604deda26fa166410e04a3f5d3814bc27c5e5107a77cb73cc83b57eb69ad5028c204ccb2133e9a4ebcb
+047cc6f13c489f5f5ffbe937b4930d69426d517c1c76b4a830caccbff7a5eda16b88c4a6d1c9cdd08bd13ad2ee0dde4b4dc5af3cc37475055ffaf7a33aeaff04 6c9504e219c7b5dd211d9d91653f8750707f6da438003b8521f7fdd4aa1e455867be9fd1e271cd6894fd000230bc1a20c6d3056131fce46144d7e46d26e05e95
+cfcadc9256e6253b56863ec5f637a303316b97b1689b03c7841760d46a53e132decd657580e3adde508ad0de260e633d8b0dd539d4b97c5f771e91337c2299ad 9dc2a8bd0c3bf01747757947dde576dda6bb5725a9f4cedabe8b80adf15c5c3ac04ca13d000d9dc9b579f1d0eeb378e19e9a1d01e60f1f0fa61c8c2068c4ef6b
